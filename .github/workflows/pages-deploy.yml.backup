@@ -28,38 +28,22 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v3
         with:
           fetch-depth: 0
-          submodules: "recursive"
-          token: ${{ secrets.POST_TOKEN }}
+          # submodules: true
           # If using the 'assets' git submodule from Chirpy Starter, uncomment above
           # (See: https://github.com/cotes2020/chirpy-starter/tree/main/assets)
 
-      - name: Git Submodule Update
-        run: |
-          git config --list
-          git submodule status
-          git pull --recurse-submodules
-          git submodule update --init --recursive
-
       - name: Setup Pages
         id: pages
-        uses: actions/configure-pages@v4
+        uses: actions/configure-pages@v1
 
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 3.2 # reads from a '.ruby-version' or '.tools-version' file if 'ruby-version' is omitted
+          ruby-version: 3.1 # reads from a '.ruby-version' or '.tools-version' file if 'ruby-version' is omitted
           bundler-cache: true
-
-      # - name: List Directory
-      #   run: |
-      #     echo "Listing directory contents:"
-      #     ls -la
-      #     echo "Listing submodule contents:"
-      #     ls -la assets/lib
-      #     ls -la _posts
 
       - name: Build site
         run: bundle exec jekyll b -d "_site${{ steps.pages.outputs.base_path }}"
@@ -67,8 +51,8 @@ jobs:
           JEKYLL_ENV: "production"
 
       - name: Test site
-        run: |
-          bundle exec htmlproofer _site --disable-external --check-html --allow-hash_href --trace --ignore-urls "/^http:\/\//"
+        run: | #
+          bundle exec htmlproofer _site --disable-external --check-html --allow-hash_href
 
       - name: Upload site artifact
         uses: actions/upload-pages-artifact@v1
@@ -84,4 +68,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v2
+        uses: actions/deploy-pages@v1
