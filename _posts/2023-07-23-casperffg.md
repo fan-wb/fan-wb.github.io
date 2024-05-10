@@ -50,7 +50,7 @@ Casper FFG 协议的名称由两部分组成：
 > 在本章中，我将讲述 Casper 协议的诞生，它是将 Aviv Zohar 和 Jonatan Sompolinsky 的 GHOST 协议应用于权益证明机制之上的产物。
 > 我称之为“友好的幽灵”，因为其激励机制旨在对抗寡头垄断的审查制度：这些激励机制迫使卡特尔对非卡特尔验证者保持友好。
 
-这里提到的 GHOST 协议就是在[前一篇文章](https://fan-wb.github.io/posts/011/)中介绍过的协议。Casper 这个名字其实来自 Casper the Friendly Ghost，是一个自 1940 年代以来就存在的卡通角色。
+这里提到的 GHOST 协议就是在[前一篇文章](https://fan-wb.github.io/posts/lmdghost/)中介绍过的协议。Casper 这个名字其实来自 Casper the Friendly Ghost，是一个自 1940 年代以来就存在的卡通角色。
 
 Zamfir 最初将协议命名为 Casper TFG（The Friendly Ghost，友好的幽灵），后来又改名为 Casper CBC（Correct By Construction，通过构建实现正确性）。Vitalik 的 Casper FFG 与 Zamfir 的 Casper TFG/CBC 几乎同时出现，但两者并没有什么共同之处，Casper FFG 也没有使用 GHOST 协议。
 
@@ -439,6 +439,7 @@ def weigh_justification_and_finalization(state: BeaconState,
 ---
 
 [^1]: Casper FFG 的论文中常用 "dynasty" 一词表示 Epoch，只有少数例外，这两个词其实是一回事。
-[^2]:这两轮与[经典 PBFT 共识](https://fan-wb.github.io/posts/004/)中的 `PREPARE` 和 `COMMIT` 阶段相对应，而 `PRE-PREPARE` 阶段大致相当于 Casper FFG 中将检查点块进行广播。
+[^2]:这两轮与[经典 PBFT 共识](https://fan-wb.github.io/posts/pbft/)中的 `PREPARE` 和 `COMMIT` 阶段相对应，而 `PRE-PREPARE` 阶段大致相当于 Casper FFG 中将检查点块进行广播。
+
 [^3]:[Lighthouse](https://lighthouse-book.sigmaprime.io/slasher.html) 团队和 [Prysm](https://docs.prylabs.network/docs/prysm-usage/slasher) 团队都开发了罚没检测软件。↩
 [^4]: 截止目前（2023年6月），信标链上质押了 2160 万枚 ETH，因此最终性回滚将导致至少 720 万枚 ETH 被罚没。按当前价格计算，相当于有 137 亿美元的安全预算。↩
