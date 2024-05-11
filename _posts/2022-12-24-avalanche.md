@@ -46,7 +46,7 @@ Slush 算法描述如下：
 
 <img src="https://fanwb.oss-cn-beijing.aliyuncs.com/img/uTools_1680059013988.png" style="zoom: 80%;" />
 
-算法解释：
+详细分析：
 
 1. 在起始时刻，所有节点都是未着色状态；
 2. 节点 $u$ 循环发起查询，总共 $m$ 轮，每轮随机选择 $k$ 个样本发送包含自身颜色的查询；

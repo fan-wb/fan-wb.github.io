@@ -17,7 +17,7 @@ image: https://fanwb.oss-cn-beijing.aliyuncs.com/img/casper.jpg
 
 本文是介绍以太坊 PoS 共识协议的第二部分，主要对最终性工具 Casper FFG 进行全面说明。
 
-有许多文章都介绍过 Casper FFG 的运作机制，但却很少说明该机制为什么有效。希望本文能为理解 Casper FFG 的有效性提供一些参考。
+许多文章都介绍过 Casper FFG 的运行机制，但很少解释这些机制为什么有效。希望本文能为读者理解 Casper FFG 的有效性提供一些参考。
 
 总体而言，Casper FFG 的机制并不复杂，其有效性主要归功于为两个重要理念：**两阶段提交**，以及**可问责安全性**。
 
