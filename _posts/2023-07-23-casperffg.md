@@ -8,6 +8,8 @@ categories: [Consensus]
 
 tags: [ethereum,pos]
 
+pin: true
+
 math: true
 
 image: https://fanwb.oss-cn-beijing.aliyuncs.com/img/casper.jpg
