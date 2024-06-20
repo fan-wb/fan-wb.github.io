@@ -4,7 +4,7 @@ title: zkEVM Rollup：从理论到现实
 
 date: 2023-02-20 12:00:00 +0800
 
-categories: [Layer 2]
+categories: [Blockchain,Layer 2]
 
 tags: [rollup, zkEVM]
 
