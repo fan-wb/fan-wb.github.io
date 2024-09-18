@@ -9,267 +9,302 @@
 
 <url>
   <loc>https://fan-wb.github.io/</loc>
-  <lastmod>2024-05-11T03:16:03+00:00</lastmod>
+  <lastmod>2024-09-18T11:39:42+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://fan-wb.github.io/categories/</loc>
-  <lastmod>2024-05-11T03:16:03+00:00</lastmod>
+  <lastmod>2024-09-18T11:39:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://fan-wb.github.io/tags/</loc>
-  <lastmod>2024-05-11T03:16:03+00:00</lastmod>
+  <lastmod>2024-09-18T11:39:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://fan-wb.github.io/archives/</loc>
-  <lastmod>2024-05-11T03:16:03+00:00</lastmod>
+  <lastmod>2024-09-18T11:39:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://fan-wb.github.io/about/</loc>
-  <lastmod>2024-05-11T03:16:03+00:00</lastmod>
+  <lastmod>2024-09-18T11:39:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fan-wb.github.io/posts/aicrypto/</loc>
+  <lastmod>2024-09-18T11:39:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://fan-wb.github.io/posts/modular/</loc>
-  <lastmod>2024-05-11T03:16:03+00:00</lastmod>
+  <lastmod>2024-09-18T11:39:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://fan-wb.github.io/posts/ordinals/</loc>
-  <lastmod>2024-05-11T03:16:03+00:00</lastmod>
+  <lastmod>2024-09-18T11:39:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fan-wb.github.io/posts/ethds/</loc>
+  <lastmod>2024-09-18T11:39:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://fan-wb.github.io/posts/casperffg/</loc>
-  <lastmod>2024-05-11T03:16:03+00:00</lastmod>
+  <lastmod>2024-09-18T11:39:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://fan-wb.github.io/posts/lmdghost/</loc>
-  <lastmod>2024-05-11T03:16:03+00:00</lastmod>
+  <lastmod>2024-09-18T11:39:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://fan-wb.github.io/posts/floo/</loc>
-  <lastmod>2024-05-11T03:16:03+00:00</lastmod>
+  <lastmod>2024-09-18T11:39:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://fan-wb.github.io/posts/ipfs/</loc>
-  <lastmod>2024-05-11T03:16:03+00:00</lastmod>
+  <lastmod>2024-09-18T11:39:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://fan-wb.github.io/posts/deanonymization/</loc>
-  <lastmod>2024-05-11T03:16:03+00:00</lastmod>
+  <lastmod>2024-09-18T11:39:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://fan-wb.github.io/posts/rwa/</loc>
-  <lastmod>2024-05-11T03:16:03+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://fan-wb.github.io/posts/zkevmrollup/</loc>
-  <lastmod>2024-05-11T03:16:03+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://fan-wb.github.io/posts/avalanche/</loc>
-  <lastmod>2024-05-11T03:16:03+00:00</lastmod>
+  <lastmod>2024-09-18T11:39:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://fan-wb.github.io/page2/</loc>
-  <lastmod>2024-05-11T03:16:03+00:00</lastmod>
+  <lastmod>2024-09-18T11:39:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://fan-wb.github.io/tags/consensus/</loc>
-  <lastmod>2024-05-11T03:16:03+00:00</lastmod>
+  <loc>https://fan-wb.github.io/page3/</loc>
+  <lastmod>2024-09-18T11:39:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fan-wb.github.io/posts/aa/</loc>
+  <lastmod>2024-09-18T11:39:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://fan-wb.github.io/tags/ethereum/</loc>
-  <lastmod>2024-05-11T03:16:03+00:00</lastmod>
+  <lastmod>2024-09-18T11:39:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fan-wb.github.io/tags/consensus/</loc>
+  <lastmod>2024-09-18T11:39:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://fan-wb.github.io/tags/blockchain/</loc>
-  <lastmod>2024-05-11T03:16:03+00:00</lastmod>
+  <lastmod>2024-09-18T11:39:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://fan-wb.github.io/tags/rollup/</loc>
-  <lastmod>2024-05-11T03:16:03+00:00</lastmod>
+  <lastmod>2024-09-18T11:39:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://fan-wb.github.io/tags/defi/</loc>
-  <lastmod>2024-05-11T03:16:03+00:00</lastmod>
+  <lastmod>2024-09-18T11:39:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://fan-wb.github.io/tags/ipfs/</loc>
-  <lastmod>2024-05-11T03:16:03+00:00</lastmod>
+  <lastmod>2024-09-18T11:39:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://fan-wb.github.io/tags/pos/</loc>
-  <lastmod>2024-05-11T03:16:03+00:00</lastmod>
+  <lastmod>2024-09-18T11:39:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://fan-wb.github.io/tags/privacy/</loc>
-  <lastmod>2024-05-11T03:16:03+00:00</lastmod>
+  <lastmod>2024-09-18T11:39:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://fan-wb.github.io/tags/avalanche/</loc>
-  <lastmod>2024-05-11T03:16:03+00:00</lastmod>
+  <loc>https://fan-wb.github.io/tags/account-abstraction/</loc>
+  <lastmod>2024-09-18T11:39:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://fan-wb.github.io/tags/bitcoin/</loc>
-  <lastmod>2024-05-11T03:16:03+00:00</lastmod>
+  <loc>https://fan-wb.github.io/tags/ai/</loc>
+  <lastmod>2024-09-18T11:39:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://fan-wb.github.io/categories/blockchain/</loc>
-  <lastmod>2024-05-11T03:16:03+00:00</lastmod>
+  <lastmod>2024-09-18T11:39:42+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://fan-wb.github.io/categories/consensus/</loc>
-  <lastmod>2024-05-11T03:16:03+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://fan-wb.github.io/categories/ipfs/</loc>
-  <lastmod>2024-05-11T03:16:03+00:00</lastmod>
+  <loc>https://fan-wb.github.io/categories/ethereum/</loc>
+  <lastmod>2024-09-18T11:39:42+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://fan-wb.github.io/categories/layer-2/</loc>
-  <lastmod>2024-05-11T03:16:03+00:00</lastmod>
+  <lastmod>2024-09-18T11:39:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fan-wb.github.io/categories/consensus/</loc>
+  <lastmod>2024-09-18T11:39:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fan-wb.github.io/categories/ipfs/</loc>
+  <lastmod>2024-09-18T11:39:42+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://fan-wb.github.io/categories/project/</loc>
-  <lastmod>2024-05-11T03:16:03+00:00</lastmod>
+  <lastmod>2024-09-18T11:39:42+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://fan-wb.github.io/categories/rwa/</loc>
-  <lastmod>2024-05-11T03:16:03+00:00</lastmod>
+  <lastmod>2024-09-18T11:39:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fan-wb.github.io/tags/avalanche/</loc>
+  <lastmod>2024-09-18T11:39:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fan-wb.github.io/tags/bitcoin/</loc>
+  <lastmod>2024-09-18T11:39:42+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://fan-wb.github.io/tags/channel/</loc>
-  <lastmod>2024-05-11T03:16:03+00:00</lastmod>
+  <lastmod>2024-09-18T11:39:42+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://fan-wb.github.io/tags/da/</loc>
-  <lastmod>2024-05-11T03:16:03+00:00</lastmod>
+  <lastmod>2024-09-18T11:39:42+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://fan-wb.github.io/tags/hotstuff/</loc>
-  <lastmod>2024-05-11T03:16:03+00:00</lastmod>
+  <lastmod>2024-09-18T11:39:42+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://fan-wb.github.io/tags/inscription/</loc>
-  <lastmod>2024-05-11T03:16:03+00:00</lastmod>
+  <lastmod>2024-09-18T11:39:42+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://fan-wb.github.io/tags/modular/</loc>
-  <lastmod>2024-05-11T03:16:03+00:00</lastmod>
+  <lastmod>2024-09-18T11:39:42+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://fan-wb.github.io/tags/ordinals/</loc>
-  <lastmod>2024-05-11T03:16:03+00:00</lastmod>
+  <lastmod>2024-09-18T11:39:42+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://fan-wb.github.io/tags/p2p/</loc>
-  <lastmod>2024-05-11T03:16:03+00:00</lastmod>
+  <lastmod>2024-09-18T11:39:42+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://fan-wb.github.io/tags/pbft/</loc>
-  <lastmod>2024-05-11T03:16:03+00:00</lastmod>
+  <lastmod>2024-09-18T11:39:42+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://fan-wb.github.io/tags/raft/</loc>
-  <lastmod>2024-05-11T03:16:03+00:00</lastmod>
+  <lastmod>2024-09-18T11:39:42+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://fan-wb.github.io/tags/rwa/</loc>
-  <lastmod>2024-05-11T03:16:03+00:00</lastmod>
+  <lastmod>2024-09-18T11:39:42+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://fan-wb.github.io/tags/web3/</loc>
-  <lastmod>2024-05-11T03:16:03+00:00</lastmod>
+  <lastmod>2024-09-18T11:39:42+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://fan-wb.github.io/tags/zkevm/</loc>
-  <lastmod>2024-05-11T03:16:03+00:00</lastmod>
+  <lastmod>2024-09-18T11:39:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fan-wb.github.io/posts/zkevmrollup/</loc>
+  <lastmod>2024-09-18T11:39:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fan-wb.github.io/posts/avalanche/</loc>
+  <lastmod>2024-09-18T11:39:42+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://fan-wb.github.io/posts/web3/</loc>
-  <lastmod>2024-05-11T03:16:03+00:00</lastmod>
+  <lastmod>2024-09-18T11:39:42+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://fan-wb.github.io/posts/layer2/</loc>
-  <lastmod>2024-05-11T03:16:03+00:00</lastmod>
+  <lastmod>2024-09-18T11:39:42+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://fan-wb.github.io/posts/raft/</loc>
-  <lastmod>2024-05-11T03:16:03+00:00</lastmod>
+  <lastmod>2024-09-18T11:39:42+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://fan-wb.github.io/posts/hotstuff/</loc>
-  <lastmod>2024-05-11T03:16:03+00:00</lastmod>
+  <lastmod>2024-09-18T11:39:42+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://fan-wb.github.io/posts/dht/</loc>
-  <lastmod>2024-05-11T03:16:03+00:00</lastmod>
+  <lastmod>2024-09-18T11:39:42+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://fan-wb.github.io/posts/pbft/</loc>
-  <lastmod>2024-05-11T03:16:03+00:00</lastmod>
+  <lastmod>2024-09-18T11:39:42+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://fan-wb.github.io/posts/privacy/</loc>
-  <lastmod>2024-05-11T03:16:03+00:00</lastmod>
+  <lastmod>2024-09-18T11:39:42+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://fan-wb.github.io/posts/002/</loc>
-  <lastmod>2024-05-11T03:16:03+00:00</lastmod>
+  <lastmod>2024-09-18T11:39:42+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://fan-wb.github.io/posts/001/</loc>
-  <lastmod>2024-05-11T03:16:03+00:00</lastmod>
+  <lastmod>2024-09-18T11:39:42+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 
