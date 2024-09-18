@@ -23,7 +23,8 @@ title: Fanwb's Blog # the main title
 tagline: The Revolution Will Be Decentralized. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  The Revolution Will Be Decentralized.
+  blog, blockchain, bitcoin, crypto, ethereum, defi, nft, web3, decentralized, finance, technology, ordinals, ipfs, research, zk, snark, rollup, layer2, privacy, security, cryptography, 
+  consensus, scalability, modular, smart contract, dapp
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://fan-wb.github.io"
@@ -42,7 +43,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     # https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    - https://github.com/fan-wb # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -80,7 +81,9 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://fanwb.oss-cn-beijing.aliyuncs.com/img/1-2.jpg
+avatar: https://fanwb.oss-cn-beijing.aliyuncs.com/img/mmexport1622826100077.jpg
+# https://fanwb.oss-cn-beijing.aliyuncs.com/img/1-2.jpg
+# https://fanwb.oss-cn-beijing.aliyuncs.com/img/微信图片_20240125105358.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
@@ -116,7 +119,7 @@ assets:
 pwa:
   enabled: true # the option for PWA feature
 
-paginate: 10
+paginate: 11 # the number of posts displayed per page
 
 # ------------ The following options are not recommended to be modified ------------------
 
