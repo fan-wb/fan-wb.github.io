@@ -81,9 +81,10 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://fanwb.oss-cn-beijing.aliyuncs.com/img/mmexport1622826100077.jpg
-# https://fanwb.oss-cn-beijing.aliyuncs.com/img/1-2.jpg
-# https://fanwb.oss-cn-beijing.aliyuncs.com/img/微信图片_20240125105358.jpg
+avatar:
+  # https://fanwb.oss-cn-beijing.aliyuncs.com/img/mmexport1622826100077.jpg
+  # https://fanwb.oss-cn-beijing.aliyuncs.com/img/1-2.jpg
+  https://fanwb.oss-cn-beijing.aliyuncs.com/img/微信图片_20240125105358.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
@@ -119,7 +120,7 @@ assets:
 pwa:
   enabled: true # the option for PWA feature
 
-paginate: 11 # the number of posts displayed per page
+paginate: 10 # the number of posts displayed per page
 
 # ------------ The following options are not recommended to be modified ------------------
 
