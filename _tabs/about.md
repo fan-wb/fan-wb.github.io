@@ -28,3 +28,5 @@ order: 4
 书籍分享
 
 - IPNS KEY:  `k51qzi5uqu5diwf4knqpjffgidzxslpbwe9ks04f64u63xi66zfjlqjb62z7j8`
+
+- 公共网关: https://k51qzi5uqu5diwf4knqpjffgidzxslpbwe9ks04f64u63xi66zfjlqjb62z7j8.ipns.dweb.link/
