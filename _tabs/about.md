@@ -9,24 +9,32 @@ order: 4
 > BUIDL!  LFG!
 {: .prompt-tip }
 
+---
+
+**本站已在 IPFS 上同步部署**
+
+- 可运行节点使用本地网关访问：
+  - IPNS KEY: `k51qzi5uqu5dmfcprlafbp7idt7jujlsgp48hx8ful5k7iqm0el582yva4fgq3`
 
 
-本站已在 IPFS 上同步部署，您可运行节点使用本地网关访问
+- 或通过公共网关访问：
 
-- IPNS KEY: `k51qzi5uqu5dkzfh1nd3c7uyq6vguduw0bcmqcktfy1uxbe5zx6fie0oklumwf`
+  - [dweb.link/ipns/portkey.fanwb.xyz](dweb.link/ipns/portkey.fanwb.xyz) 
 
-或使用公共网关访问：
+  - [dweb.link/ipns/k51qzi5uqu5dmfcprlafbp7idt7jujlsgp48hx8ful5k7iqm0el582yva4fgq3](https://k51qzi5uqu5dmfcprlafbp7idt7jujlsgp48hx8ful5k7iqm0el582yva4fgq3.ipns.dweb.link/)
+  
+  
+    - [flk-ipfs.xyz/ipns/portkey.fanwb.xyz](flk-ipfs.xyz/ipns/portkey.fanwb.xyz)
+  
+    - [flk-ipfs.xyz/ipns/k51qzi5uqu5dmfcprlafbp7idt7jujlsgp48hx8ful5k7iqm0el582yva4fgq3](https://k51qzi5uqu5dmfcprlafbp7idt7jujlsgp48hx8ful5k7iqm0el582yva4fgq3.ipns.flk-ipfs.xyz/)
+  
 
-- dweb.link/ipns/portkey.fanwb.xyz 
-- https://k51qzi5uqu5dkzfh1nd3c7uyq6vguduw0bcmqcktfy1uxbe5zx6fie0oklumwf.ipns.dweb.link/
 
-- flk-ipfs.xyz/ipns/portkey.fanwb.xyz
-- https://k51qzi5uqu5dkzfh1nd3c7uyq6vguduw0bcmqcktfy1uxbe5zx6fie0oklumwf.ipns.flk-ipfs.xyz/
+---
 
+**资源分享**
 
+- IPNS KEY: `k51qzi5uqu5diwf4knqpjffgidzxslpbwe9ks04f64u63xi66zfjlqjb62z7j8`
 
-书籍分享
+- 公共网关：[dweb.link/ipns/k51qzi5uqu5diwf4knqpjffgidzxslpbwe9ks04f64u63xi66zfjlqjb62z7j8](https://k51qzi5uqu5diwf4knqpjffgidzxslpbwe9ks04f64u63xi66zfjlqjb62z7j8.ipns.dweb.link/)
 
-- IPNS KEY:  `k51qzi5uqu5diwf4knqpjffgidzxslpbwe9ks04f64u63xi66zfjlqjb62z7j8`
-
-- 公共网关: https://k51qzi5uqu5diwf4knqpjffgidzxslpbwe9ks04f64u63xi66zfjlqjb62z7j8.ipns.dweb.link/
