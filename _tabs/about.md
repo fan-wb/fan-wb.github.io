@@ -33,7 +33,7 @@ order: 4
 
 **资源分享**
 
-- IPNS KEY: `k51qzi5uqu5diwf4knqpjffgidzxslpbwe9ks04f64u63xi66zfjlqjb62z7j8`
+- IPNS KEY: `k51qzi5uqu5dgknq9wj70ssqfxe3slfhcrrnymodj7679kfo91f3dcv1958wyf`
 
-- 公共网关：[dweb.link/ipns/k51qzi5uqu5diwf4knqpjffgidzxslpbwe9ks04f64u63xi66zfjlqjb62z7j8](https://k51qzi5uqu5diwf4knqpjffgidzxslpbwe9ks04f64u63xi66zfjlqjb62z7j8.ipns.dweb.link/)
+- 公共网关：[dweb.link/ipns/k51qzi5uqu5dgknq9wj70ssqfxe3slfhcrrnymodj7679kfo91f3dcv1958wyf](https://k51qzi5uqu5dgknq9wj70ssqfxe3slfhcrrnymodj7679kfo91f3dcv1958wyf.ipns.dweb.link/)
 
