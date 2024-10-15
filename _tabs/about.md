@@ -13,17 +13,17 @@ order: 4
 
 **本站已在 IPFS 上同步部署**
 
-- 可运行节点使用本地网关访问：
+- 您可运行节点使用本地网关访问：
   - IPNS KEY: `k51qzi5uqu5dmfcprlafbp7idt7jujlsgp48hx8ful5k7iqm0el582yva4fgq3`
 
 
 - 或通过公共网关访问：
 
-  - [dweb.link/ipns/portkey.fanwb.xyz](https://dweb.link/ipns/portkey.fanwb.xyz) 
+  - [dweb.link/ipns/portkey.fanwb.xyz](https://dweb.link/ipns/portkey.fanwb.xyz/) 
 
   - [dweb.link/ipns/k51qzi5uqu5dmfcprlafbp7idt7jujlsgp48hx8ful5k7iqm0el582yva4fgq3](https://k51qzi5uqu5dmfcprlafbp7idt7jujlsgp48hx8ful5k7iqm0el582yva4fgq3.ipns.dweb.link/)
   
-  - [flk-ipfs.xyz/ipns/portkey.fanwb.xyz](https://flk-ipfs.xyz/ipns/portkey.fanwb.xyz)
+  - [flk-ipfs.xyz/ipns/portkey.fanwb.xyz](https://flk-ipfs.xyz/ipns/portkey.fanwb.xyz/)
   
   - [flk-ipfs.xyz/ipns/k51qzi5uqu5dmfcprlafbp7idt7jujlsgp48hx8ful5k7iqm0el582yva4fgq3](https://k51qzi5uqu5dmfcprlafbp7idt7jujlsgp48hx8ful5k7iqm0el582yva4fgq3.ipns.flk-ipfs.xyz/)
   
@@ -36,4 +36,3 @@ order: 4
 - IPNS KEY: `k51qzi5uqu5dgknq9wj70ssqfxe3slfhcrrnymodj7679kfo91f3dcv1958wyf`
 
 - 公共网关：[dweb.link/ipns/k51qzi5uqu5dgknq9wj70ssqfxe3slfhcrrnymodj7679kfo91f3dcv1958wyf](https://k51qzi5uqu5dgknq9wj70ssqfxe3slfhcrrnymodj7679kfo91f3dcv1958wyf.ipns.dweb.link/)
-
