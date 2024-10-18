@@ -35,10 +35,8 @@ copyright:
     link: https://creativecommons.org/licenses/by/4.0/
 
   # Displayed in the footer
-  brief: Some rights reserved.
-  verbose: >-
-    Except where otherwise noted, the blog posts on this site are licensed
-    under the Creative Commons Attribution 4.0 International (CC BY 4.0) License by the author.
+  brief: "<a href='https://beian.miit.gov.cn/' target='_blank'>京ICP备2024091746号-1</a>"
+  verbose: ""
 
 meta: Powered by :PLATFORM with :THEME theme.
 
@@ -77,11 +75,11 @@ post:
 # See: <http://strftime.net/>, <https://day.js.org/docs/en/display/format>
 df:
   post:
-    strftime: '%b %e, %Y'
-    dayjs: 'll'
+    strftime: "%b %e, %Y"
+    dayjs: "ll"
   archives:
-    strftime: '%b'
-    dayjs: 'MMM'
+    strftime: "%b"
+    dayjs: "MMM"
 
 # categories page
 categories:
