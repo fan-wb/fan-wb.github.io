@@ -3,9 +3,9 @@ title: 隐私与透明：密码朋克运动的多维度探讨
 
 date: 2024-10-16 12:00:00 +0800
 
-categories: [Blockchain]
+categories: [Privacy]
 
-tags: [cypherpunk]
+tags: [cypherpunk,privacy]
 
 pin: true
 
