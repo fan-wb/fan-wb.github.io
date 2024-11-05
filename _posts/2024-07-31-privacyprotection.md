@@ -15,6 +15,11 @@ image: https://fanwb.oss-cn-beijing.aliyuncs.com/img/camera.jpg
 
 ---
 
+> "We must defend our own privacy if we expect to have any."  *— A Cypherpunk's Manifesto*
+
+
+
+
 个人使用体验较好的各类隐私保护工具推荐，以开源软件为主，不定期更新。
 
 ## 网页浏览
