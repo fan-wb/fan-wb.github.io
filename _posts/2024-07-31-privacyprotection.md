@@ -20,7 +20,7 @@ image: https://fanwb.oss-cn-beijing.aliyuncs.com/img/camera.jpg
 
 
 
-个人使用体验较好的各类隐私保护工具推荐，以开源软件为主，不定期更新。
+本文是个人使用体验较好的各类隐私保护工具的推荐，以开源软件为主，不定期更新。
 
 ## 网页浏览
 
@@ -281,6 +281,26 @@ Linux 平台的证书管理器及通用加密 GUI，支持管理 GpgSM 密钥箱
 
 
 
+## 浏览器插件
+
+### <img src="https://fanwb.oss-cn-beijing.aliyuncs.com/img/privacy-badger.png" style="zoom:6%;" /> Privacy Badger
+
+智能追踪器检测，自动学习屏蔽，不依赖黑名单
+
+- **官网：**[privacybadger.org](https://privacybadger.org/)
+- **隐私：**[tosdr.org/en/service/682](https://tosdr.org/en/service/682)
+- **开源：**✅
+
+### <img src="https://fanwb.oss-cn-beijing.aliyuncs.com/img/ublock.svg" style="zoom:20%;" /> uBlock Origin
+
+屏蔽广告、追踪器和恶意网站
+
+- **官网：**[ublockorigin.com](https://ublockorigin.com/)
+- **隐私：**[tosdr.org/en/service/682](https://tosdr.org/en/service/682)
+- **开源：**✅
+
+
+
 ## 匿名支付
 
 ### <img src="https://fanwb.oss-cn-beijing.aliyuncs.com/img/getmonero.org.png" style="zoom:6%;" /> Monero
@@ -299,22 +319,3 @@ Linux 平台的证书管理器及通用加密 GUI，支持管理 GpgSM 密钥箱
 - **隐私：**[tosdr.org/en/service/8258](https://tosdr.org/en/service/8258)
 - **开源：**✅
 
-
-
-## 浏览器插件
-
-### <img src="https://fanwb.oss-cn-beijing.aliyuncs.com/img/privacy-badger.png" style="zoom:6%;" /> Privacy Badger
-
-智能追踪器检测，自动学习屏蔽，不依赖黑名单
-
-- **官网：**[privacybadger.org](https://privacybadger.org/)
-- **隐私：**[tosdr.org/en/service/682](https://tosdr.org/en/service/682)
-- **开源：**✅
-
-### <img src="https://fanwb.oss-cn-beijing.aliyuncs.com/img/ublock.svg" style="zoom:20%;" /> uBlock Origin
-
-屏蔽广告、追踪器和恶意网站
-
-- **官网：**[ublockorigin.com](https://ublockorigin.com/)
-- **隐私：**[tosdr.org/en/service/682](https://tosdr.org/en/service/682)
-- **开源：**✅
