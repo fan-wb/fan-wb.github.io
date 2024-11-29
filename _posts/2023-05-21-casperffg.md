@@ -2,7 +2,7 @@
 
 title: 以太坊 PoS 共识协议详解（二）：Casper FFG
 
-date: 2023-07-23 12:00:00 +0800
+date: 2023-05-21 12:00:00 +0800
 
 categories: [Blockchain,Ethereum]
 
