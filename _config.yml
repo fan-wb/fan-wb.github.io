@@ -120,7 +120,7 @@ assets:
 pwa:
   enabled: true # the option for PWA feature
 
-paginate: 13 # the number of posts displayed per page
+paginate: 15 # the number of posts displayed per page
 
 # ------------ The following options are not recommended to be modified ------------------
 
