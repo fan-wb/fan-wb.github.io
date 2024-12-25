@@ -1,7 +1,7 @@
 ---
 layout: page
 icon: fas fa-ghost
-order: 5
+order: 4
 ---
 
 ## This is a test page
