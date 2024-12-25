@@ -39,7 +39,7 @@ image: https://fanwb.oss-cn-beijing.aliyuncs.com/img/1000057449.jpg
 
 **法币抵押型**
 
-法币抵押稳定币由 Tether 和 Circle 等中心化机构发行，其核心特征是由链下银行账户中的法定货币储备提供背书。以 Tether 为例，据其[透明度报告]([Transparency](https://tether.to/en/transparency/?tab=reports))所述：约 15% 的储备投资于比特币等资产及担保贷款，以获取额外收益，同时保持大部分资产为现金或等价物，确保随时满足赎回需求。
+法币抵押稳定币由 Tether 和 Circle 等中心化机构发行，核心特征是由链下银行账户中的法定货币储备提供背书。以 Tether 为例，据其[透明度报告]([Transparency](https://tether.to/en/transparency/?tab=reports))所述：约 15% 的储备投资于比特币等资产及担保贷款，以获取额外收益，同时保持大部分资产为现金或等价物，确保随时满足赎回需求。
 
 - 遵循严格的 1:1 锚定模式，每个代币均由等值的法币或现金等价物支持。1 USDC 即代表 1 美元的价值。
 - 发行方保留随时清算储备的能力，以确保拥有充足的抵押品覆盖已发行代币，维护币值稳定。
@@ -82,17 +82,17 @@ _图2 DAI 去中心化运营带来的供应流入与流出 | 图源：Artemis_
 ![](https://fanwb.oss-cn-beijing.aliyuncs.com/img/空.png)
 _图3 USDC 在加密生态中的应用 | 数据源：Dune_
 
-USDT 的分布呈现更为显著的集中态势，其中 **70%** 位于 EOA 中，**25%** 驻留在 CeFi 平台上。USDT 的广泛采用源于 Tether 在区块链部署上的灵活性和前瞻性，其迅速进入新兴区块链并与众多中心化平台建立深度整合，使其在稳定币市场中占据优势地位。
+USDT 的分布则更为集中，其中 **70%** 位于 EOA 中，**25%** 驻留在 CeFi 平台上。USDT 的广泛应用得益于 Tether 在区块链部署上的灵活性和前瞻性，迅速进入新兴区块链并与众多中心化平台建立深度整合，使其在稳定币市场中占据优势地位。
 
 <iframe width="100%" height="360" src="https://dune.com/embeds/4409325/7387270/"></iframe>
 ![](https://fanwb.oss-cn-beijing.aliyuncs.com/img/空.png)
 _图4 USDT 在加密生态中的应用 | 数据源：Dune_
 
-这种分布提现了稳定币的核心价值：提供金融稳定性。EOA（如 Metamask 和 Phantom 等非托管钱包）本质上是用户规避加密货币波动风险的避风港，让投资者能快速将资产转换为相对稳定的形态。而像 Binance 和 Coinbase 这样的 CeFi 平台不仅提供资产转换渠道，更为跨境交易构建了便捷桥梁。这点对 USDT 的众多网络上（尤其是 Tron）的广泛部署十分关键，使其成为了拉丁美洲和非洲新兴经济体用户的[理想选择](https://www.getorbital.com/news-media/the-importance-of-usdt-payments-on-tron-in-emerging-markets?utm_campaign=Newsletter&utm_medium=email&_hsmi=330295260&utm_content=330295260&utm_source=hs_email)。由此不难看出稳定币在保护投资和提供全球金融可及性两方面都扮演了重要角色。
+这样的分布情况也体现了稳定币的核心价值：提供金融稳定性。EOA（如 Metamask 和 Phantom 等非托管钱包）本质上是用户规避加密货币波动风险的避风港，能让投资者能快速将资产转换为相对稳定的形态。而像 Binance 和 Coinbase 这样的 CeFi 平台不仅提供资产转换渠道，也为跨境交易构建了便捷桥梁。这点对 USDT 的众多网络上（尤其是 Tron）的广泛部署十分关键，使其成为了拉丁美洲和非洲新兴经济体用户的[理想选择](https://www.getorbital.com/news-media/the-importance-of-usdt-payments-on-tron-in-emerging-markets?utm_campaign=Newsletter&utm_medium=email&_hsmi=330295260&utm_content=330295260&utm_source=hs_email)。由此不难看出稳定币在保护投资和提供全球金融可及性两方面都扮演了重要角色。
 
 ### DeFi
 
-在 DeFi 领域，法币抵押稳定币相较于去中心化稳定币存在感偏低，原因主要在于后者采用激励机制（如分发 AAVE、MKR 等原生协议代币）来推动其生态的发展。
+在 DeFi 领域，法币抵押稳定币相较于去中心化稳定币存在感偏低，原因主要在于后者可以采用激励机制（如分发 AAVE、MKR 等原生协议代币）来推动其生态的发展。
 
 但 PayPal 的 PYUSD 是一个特例。在进军 Solana 生态系统的过程中，PayPal 与 Kamino Finance 携手合作，为 PYUSD 存款提供高达 **[17%](https://www.dlnews.com/articles/defi/paypal-stablecoin-supply-hits-569-million-usd-on-solana/?utm_campaign=Newsletter&utm_medium=email&_hsmi=330295260&utm_content=330295260&utm_source=hs_email)** 的年收益率，显著高于 USDC 在 Solana 上年化 **9%** 的收益率。这一策略在初期颇有成效，推动 PYUSD 的市值迅速攀升至近 **10 亿**美元，其中近 **20%** 流通于去中心化交易所，用户通过提供流动性赚取收益。然而，当激励措施收缩时， PYUSD 的市值从 8 月的峰值骤降近 **40%**，凸显了收益驱动策略在挑战现有主流稳定币市场地位、塑造采用路径中的关键作用。
 
@@ -100,7 +100,7 @@ _图4 USDT 在加密生态中的应用 | 数据源：Dune_
 ![](https://fanwb.oss-cn-beijing.aliyuncs.com/img/空.png)
 _图5 PYUSD 在加密生态中的应用 | 数据源：Dune_
 
-同样，得益于精心设计的激励机制，Aave 推出的超额抵押稳定币 GHO 也在 DeFi 领域引起了广泛关注。数据显示，约 80% 的 GHO 供应被用于借贷，另有5%在各大 DEX 中流通。这种独特的分布与 Aave 将 GHO 定位为其借贷市场核心的战略高度契合，进一步巩固了稳定币在整个 DeFi 生态中的地位，并促进了其更广泛的应用。
+同样，得益于精心设计的激励机制，Aave 推出的超额抵押稳定币 GHO 也在 DeFi 领域引起了广泛关注。数据显示，约 80% 的 GHO 供应被用于借贷，另有 5% 在各大 DEX 中流通。这种独特的分布与 Aave 将 GHO 定位为其借贷市场核心的战略高度契合，进一步巩固了稳定币在整个 DeFi 生态中的地位，并促进了其更广泛的应用。
 
 <iframe width="100%" height="360" src="https://dune.com/embeds/4413141/7393067/"></iframe>
 ![](https://fanwb.oss-cn-beijing.aliyuncs.com/img/空.png)
@@ -117,36 +117,36 @@ _图7 按金融活动类型分类的稳定币交易量 | 图源：Visa_
 <img src="https://fanwb.oss-cn-beijing.aliyuncs.com/img/stable002.png" style="zoom: 60%;" />
 _图8 不同渠道的平均汇款成本（占汇款金额的百分比）| 图源：Coinbase_
 
-区块链网络的交易费用差异显著，从几分之一美分到几美元不等。像 Solana、Fantom、Polygon 和 TON 等新一代区块链平均交易费用在一美分以下，而 BNB、Tron 和 Ethereum 等老一代网络的费用则可能需要数美分到数美元的费用。如图 9 所示。不过随着 Layer 2 解决方案的发展，Base、Arbitrum 和 Optimism 等基于 Ethereum 的平台在 Dencun 升级后，也已将交易成本压低至[不到一美分](https://www.growthepie.xyz/fundamentals/transaction-costs)，极大地改善了用户体验。
+区块链网络的交易费用差异显著，从几分之一美分到几美元不等。像 Solana、Fantom、Polygon 和 TON 等新一代区块链平均交易费用在一美分以下，而 BNB、Tron 和 Ethereum 等老一代网络的费用则可能需要数美分到数美元。如图 9 所示。不过随着 Layer 2 解决方案的发展，Base、Arbitrum 和 Optimism 等基于 Ethereum 的平台在 Dencun 升级后，也已将交易成本压低至[不到一美分](https://www.growthepie.xyz/fundamentals/transaction-costs)，极大地改善了用户体验。
 <img src="https://fanwb.oss-cn-beijing.aliyuncs.com/img/stable003.png" style="zoom:30%;" />
 _图9 主流 Layer-1 区块链的平均交易成本 | 图源：TokenTerminal_
 
-即便是在费用相对较高的网络中，加密货币交易的成本仍远低于传统支付系统，这种成本效益直接反映在稳定币使用量的稳步增长上。过去四年间，尽管加密货币市场经历周期性波动，但稳定币的使用量却在持续攀升。从 2020 年第三季度至 2021 年底的牛市期间，稳定币使用量显著增长；随后即便进入熊市，从 2022 年到 2023 年第三季度，增长势头依然不减。尤为瞩目的是，每月稳定币发送者数量从 2020 年 10 月的约 **230 万**激增至如今的 **1200 万**，增长近 **600%**，充分显示了稳定币在加密生态之外的持续吸引力和实际价值。
+即便是在费用相对较高的网络中，加密货币交易的成本仍远低于传统支付系统，这种成本效益直接反映在稳定币使用量的稳步增长上。过去四年间，尽管加密货币市场经历周期性波动，但稳定币的使用量却在持续攀升。从 2020 年第三季度至 2021 年底的牛市期间，稳定币使用量显著增长；随后即便进入熊市，从 2022 年到 2023 年第三季度，增长势头依然不减。每月稳定币发送者数量从 2020 年 10 月的约 **230 万**激增至如今的 **1200 万**，增长近 **600%**，充分显示了稳定币在加密生态之外的持续吸引力和实际价值。
 <img src="https://fanwb.oss-cn-beijing.aliyuncs.com/img/stable004.png" style="zoom:80%;" />
 _图10 每月稳定币发送者数量 | 图源：TokenTerminal_
 
-稳定币的应用正在发展中经济体掀起新的变革。一项针对巴西、印度、印度尼西亚、尼日利亚和土耳其 2541 名成年人的调查显示，**47%** 的受访者使用稳定币以获得更高储蓄利率，**43%** 的人看重其便捷的货币兑换功能，另有 **37%** 的人将其视为获取美元资产的途径。尽管调查样本有限，但这些数据仍表明稳定币在新兴市场正逐步发展成为一种跨越传统加密货币应用边界的多功能金融工具，在满足复杂经济需求方面发挥着越来越重要的作用。
+稳定币的应用正在发展中经济体掀起了新的变革。一项针对巴西、印度、印度尼西亚、尼日利亚和土耳其 2541 名成年人的调查显示，**47%** 的受访者为获得更高储蓄利率使用稳定币，**43%** 的人看重其便捷的货币兑换功能，另有 **37%** 的人将其视为获取美元资产的途径。尽管调查样本有限，但这些数据仍表明稳定币在新兴市场正逐步发展成为一种跨越传统加密货币应用边界的多功能金融工具，在满足复杂经济需求方面发挥着越来越重要的作用。
 <img src="https://fanwb.oss-cn-beijing.aliyuncs.com/img/1733987805135.png" style="zoom: 60%;" />
 _图11 用户使用稳定币的主要目的 | 图源：CastleIsland_
 
 ## 影响
 
-Tether 对加密生态系统的影响显著，如图 12 所示，其用户数已达 **6000 万**，占到了整个行业 [**2.2 亿**](https://a16zcrypto.com/posts/article/state-of-crypto-report-2024/?utm_campaign=Newsletter&utm_medium=email&_hsmi=330295260&utm_content=330295260&utm_source=hs_email)活跃用户基数的 **27%** 以上，体现了稳定币在推动加密货币普及中的重要作用。
+Tether 对加密生态系统的影响显著，如图 12 所示，其用户数已达 **6000 万**，占到了整个行业 [**2.2 亿**](https://a16zcrypto.com/posts/article/state-of-crypto-report-2024/?utm_campaign=Newsletter&utm_medium=email&_hsmi=330295260&utm_content=330295260&utm_source=hs_email)活跃用户基数的 **27%** 以上，可见稳定币在推动加密货币普及中的重要作用。
 <img src="https://fanwb.oss-cn-beijing.aliyuncs.com/img/stable005.png" style="zoom:80%;" />
 _图12 稳定币持有者总数 | 图源：TokenTerminal_
 
-USDT 作为网络活动的重要引擎，其影响力巨大：仅在 10 月 21 日单日，就在各个区块链上支付了超过 **700 万**美元的费用，由此也能看出稳定币在推动区块链生态系统增长中的重要作用。
+而 USDT 作为网络活动的重要引擎：仅在 10 月 21 日单日，就在各个区块链上支付了超过 **700 万**美元的费用，由此也能看出稳定币在推动区块链生态系统增长中的重要作用。
 
-更为显著的是，过去一个月中，USDT 在以太坊网络上的 gas 消耗位居[**第三**](https://www.theblock.co/data/on-chain-metrics/ethereum/top-20-gas-consuming-smart-contracts-30d?utm_campaign=Newsletter&utm_medium=email&_hsmi=330295260&utm_content=330295260&utm_source=hs_email)，贡献了网络总费用（约 [**40270 ETH**](https://tokenterminal.com/explorer/projects/ethereum?v=ZmI4ZjUwOGExM2Y1OGRmY2QxMDY2NTZh&utm_campaign=Newsletter&utm_medium=email&_hsmi=330295260&utm_content=330295260&utm_source=hs_email)）的 5% 以上（约 [**2310 ETH**](https://www.theblock.co/data/on-chain-metrics/ethereum/top-20-gas-consuming-smart-contracts-30d?utm_campaign=Newsletter&utm_medium=email&_hsmi=330295260&utm_content=330295260&utm_source=hs_email)）。在 Tron 网络上，USDT 更是占据了每周 [**96%**](https://tronscan.org/?utm_campaign=Newsletter&utm_medium=email&_hsmi=330295260&utm_content=330295260&utm_source=hs_email#/data/rankings/contracts) 的网络活动。如此大规模的费用通过补偿验证者直接支持了网络安全，更凸显了稳定币对区块链经济生态的深远影响。
+过去一个月中，USDT 在以太坊网络上的 gas 消耗位居[**第三**](https://www.theblock.co/data/on-chain-metrics/ethereum/top-20-gas-consuming-smart-contracts-30d?utm_campaign=Newsletter&utm_medium=email&_hsmi=330295260&utm_content=330295260&utm_source=hs_email)，贡献了网络总费用（约 [**40270 ETH**](https://tokenterminal.com/explorer/projects/ethereum?v=ZmI4ZjUwOGExM2Y1OGRmY2QxMDY2NTZh&utm_campaign=Newsletter&utm_medium=email&_hsmi=330295260&utm_content=330295260&utm_source=hs_email)）的 5% 以上（约 [**2310 ETH**](https://www.theblock.co/data/on-chain-metrics/ethereum/top-20-gas-consuming-smart-contracts-30d?utm_campaign=Newsletter&utm_medium=email&_hsmi=330295260&utm_content=330295260&utm_source=hs_email)）。在 Tron 网络上，USDT 更是占据了每周 [**96%**](https://tronscan.org/?utm_campaign=Newsletter&utm_medium=email&_hsmi=330295260&utm_content=330295260&utm_source=hs_email#/data/rankings/contracts) 的网络活动。如此大规模的费用通过补偿验证者直接支持了网络安全，更凸显了稳定币对区块链网络生态的深远影响。
 
 <img src="https://fanwb.oss-cn-beijing.aliyuncs.com/img/stable006.png" style="zoom:80%;" />
 _图13 稳定币发行商每日 gas 费 | 图源：TokenTerminal_
 
 ## 监管格局
 
-稳定币发行商已超越德国和韩国成为美国国债第 18 大持有者。随着应用的深化，稳定币的角色可能延伸至购买国债等领域，从而进一步融入主流金融体系。其日益增长的影响力凸显了对明确监管的迫切需求，如去年引入的《[支付稳定币透明度法案](https://www.congress.gov/118/bills/hr4766/BILLS-118hr4766ih.pdf?utm_campaign=Newsletter&utm_medium=email&_hsmi=309410475&utm_content=309410475&utm_source=hs_email)》和《[Lummis-Gillibrand 支付稳定币法案](https://www.gillibrand.senate.gov/wp-content/uploads/2024/04/LIP24254.pdf?utm_campaign=Newsletter&utm_medium=email&_hsmi=330295260&utm_content=330295260&utm_source=hs_email)》，以确保这一新兴领域的安全性和可信度。美国监管政策的模糊不清，加之地缘政治和宏观经济因素的影响，可能逐渐削弱美元计价稳定币的主导地位。
+稳定币发行商已超越德国和韩国成为美国国债[第 18 大](https://decrypt.co/250335/stablecoin-issuers-now-18th-largest-holder-of-u-s-treasuries-says-bernstein)持有者。随着应用的深化，稳定币的应用还可能延伸至购买国债等领域，从而进一步融入主流金融体系。其日益增长的影响力凸显了对明确监管的需求，去年《[支付稳定币透明度法案](https://www.congress.gov/118/bills/hr4766/BILLS-118hr4766ih.pdf?utm_campaign=Newsletter&utm_medium=email&_hsmi=309410475&utm_content=309410475&utm_source=hs_email)》和《[Lummis-Gillibrand 支付稳定币法案](https://www.gillibrand.senate.gov/wp-content/uploads/2024/04/LIP24254.pdf?utm_campaign=Newsletter&utm_medium=email&_hsmi=330295260&utm_content=330295260&utm_source=hs_email)》的提出即反映了这一诉求，然而美国监管政策的不确定性，叠加地缘政治和宏观经济因素的影响，可能对美元稳定币的主导地位形成挑战。
 
-- **欧洲的《加密资产市场法规》(MiCA)** 将于 2024 年 12 月 30 日全面生效。该法规对中心化发行商进行了严格限制，要求发行商必须获得 MiCA 许可证，方可在欧盟内公开提供或交易资产参考代币或电子货币代币，且不设过渡期。如果 Tether 等公司未在 2024 年底前达到合规要求，则 USDT 等稳定币可能在欧盟交易所被下架。此外，为保护货币主权，MiCA 对与外币挂钩的稳定币使用进行了限制，当每日使用量“作为单一货币区内的交换手段超过 100 万笔交易和 2 亿欧元”时，必须停止发行。
+- **欧洲的《加密资产市场法规》(MiCA)** 将于 2024 年 12 月 30 日全面生效。该法规对中心化发行商进行了严格限制，要求发行商必须获得 MiCA 许可证，方可在欧盟内公开提供或交易资产参考代币或电子货币代币，且不设过渡期。如果 Tether 等公司未在 2024 年底前达到合规要求，则 USDT 等稳定币可能在欧盟交易所被下架。此外，此外，MiCA 还通过设置使用量上限（日交易 10 万笔、2 亿欧元）来限制外币挂钩稳定币的使用，以保护货币主权。
 
 - **泰国最古老的银行推出该国的首个稳定币**：暹罗商业银行与金融科技公司 Lightnet 合作，推出了泰国的首个用于跨境支付和汇款的稳定币。
 - **阿联酋央行已原则上批准了 AED 稳定币**在其《支付代币服务监管框架》下的申请。若最终获准，AE Coin 将可在交易所和去中心化平台作为本地交易对，并可用于商品和服务支付。值得注意的是，这一监管进展发生在 Tether 宣布推出 AED 稳定币的数月之后，其 CEO 当时表示，这将“提供美元的替代选择”。
@@ -163,17 +163,17 @@ _图14 主流稳定币的价格稳定性 | 图源：CoinMetrics_
 
 ## 展望
 
-央行利率下降催生了对稳定币的深入探讨。投资者追求更高收益的趋势已初露端倪，如下图所示，加密货币无抵押贷款平台 Maple Finance 的贷款总额已攀升至历史新高。
+美联储利率下降催生了对稳定币的深入探讨。投资者追求更高收益的趋势已初露端倪，如下图所示，加密货币无抵押贷款平台 Maple Finance 的贷款总额已攀升至历史新高。
 
 <iframe width="100%" height="360" src="https://dune.com/embeds/4414851/7395318/"></iframe>
 ![](https://fanwb.oss-cn-beijing.aliyuncs.com/img/空.png)
 _图15 MapleFinance 未偿贷款总额 | 数据源：Dune_
 
-稳定币市场在收益模型方面正在酝酿创新。Ondo Finance 的 **[USDY](https://ondo.finance/usdy?utm_campaign=Newsletter&utm_medium=email&_hsmi=330295260&utm_content=330295260&utm_source=hs_email)** 和 Angle 的 **[stEUR](https://www.angle.money/steur?utm_campaign=Newsletter&utm_medium=email&_hsmi=330295260&utm_content=330295260&utm_source=hs_email)** 等代币化货币市场基金通过每日分红获得成功，可能激励其他发行商采用类似的利润分享模型。这一趋势旨在挑战 Tether 和 Circle 等既有玩家，后者目前主要通过将用户存款再投资于政府证券获利。新兴竞争者可能借助收入分享机制抢占市场份额，进而重塑稳定币生态，为用户提供更具吸引力的选择，例如 BitGo 即将推出的[稳定币](https://www.coindesk.com/markets/2024/09/18/bitgo-to-enter-stablecoin-market-with-reward-bearing-usds-coin?utm_campaign=Newsletter&utm_medium=email&_hsmi=330295260&utm_content=330295260&utm_source=hs_email)。但由于监管机构正致力于构建平衡创新、消费者保护和金融稳定的明确框架，这些创新模型短期内可能会面临监管审查压力。
+稳定币市场在收益模型方面正在酝酿创新。Ondo Finance 的 **[USDY](https://ondo.finance/usdy?utm_campaign=Newsletter&utm_medium=email&_hsmi=330295260&utm_content=330295260&utm_source=hs_email)** 和 Angle 的 **[stEUR](https://www.angle.money/steur?utm_campaign=Newsletter&utm_medium=email&_hsmi=330295260&utm_content=330295260&utm_source=hs_email)** 等代币化货币市场基金通过每日分红机制取得了成功，这种创新性的利润分享模式对传统稳定币发行商形成了有力挑战。与 Tether 和 Circle 主要依赖政府证券再投资获取收益的模式相比，新型收益分享机制在用户价值主张方面具有独特优势。[BitGo](https://www.coindesk.com/markets/2024/09/18/bitgo-to-enter-stablecoin-market-with-reward-bearing-usds-coin?utm_campaign=Newsletter&utm_medium=email&_hsmi=330295260&utm_content=330295260&utm_source=hs_email) 等新兴竞争者可能借助收入分享机制抢占市场份额，进而重塑稳定币生态。然而，在监管机构致力于构建平衡创新、消费者保护和金融稳定的大背景下，这些创新模型短期内可能会面临更大的监管审查压力。
 
-受 **[Ethena](https://ethena.fi/?utm_campaign=Newsletter&utm_medium=email&_hsmi=330295260&utm_content=330295260&utm_source=hs_email)** 模型启发的 delta 中性策略也将持续演进。尽管在市场低迷期维持策略仍存挑战，但后续迭代可能将充分利用日益成熟的期货和期权市场。其目标是简化复杂策略，降低准入门槛，利用复杂的加密衍生品使高级金融产品大众化。
+在策略创新方面，受 **[Ethena](https://ethena.fi/?utm_campaign=Newsletter&utm_medium=email&_hsmi=330295260&utm_content=330295260&utm_source=hs_email)** 模型启发的 delta 中性策略也将持续演进。尽管在市场低迷期维持策略仍存挑战，但随着加密衍生品市场的不断成熟，后续迭代有望通过期货与期权市场的深度整合实现突破。其目标是简化复杂策略，降低准入门槛，利用复杂的加密衍生品使高级金融产品大众化。
 
-央行数字货币 (CBDC) 的发展可能将迎来转折。从提升金融包容性到改进支付效率，各国动机各异，但都面临复杂的设计抉择。考虑到法币抵押稳定币的简单性和有效性（过去十年中促成近 **[35 万亿](https://tokenterminal.com/explorer/metrics/stablecoin-transfer-volume?v=Y2E3YjNmYjljZjI5Y2E4ZDc4ZjAxN2Yx&utm_campaign=Newsletter&utm_medium=email&_hsmi=330295260&utm_content=330295260&utm_source=hs_email)**美元的交易），各国央行可能会暂时选择将这类成熟解决方案整合至传统金融体系。正如如[加拿大](https://www.cato.org/commentary/australia-canada-colombia-were-right-pause-cbdc-plans?utm_campaign=Newsletter&utm_medium=email&_hsmi=330295260&utm_content=330295260&utm_source=hs_email)、[新加坡](https://www.mas.gov.sg/news/media-releases/2023/mas-finalises-stablecoin-regulatory-framework?utm_campaign=Newsletter&utm_medium=email&_hsmi=330295260&utm_content=330295260&utm_source=hs_email)和[英国](https://www.coindesk.com/policy/2024/04/15/uk-to-issue-new-crypto-stablecoin-legislation-by-july-minister-says?utm_campaign=Newsletter&utm_medium=email&_hsmi=330295260&utm_content=330295260&utm_source=hs_email)的实践所示，在就最佳 CBDC 模型达成共识前，这种务实方法或将成为权宜之计。
+央行数字货币 (CBDC) 的发展也可能将迎来转折。各国基于提升金融包容性、优化支付效率等不同诉求推进 CBDC 研究，但在具体实施路径上仍面临诸多技术与政策层面的挑战。考虑到法币抵押稳定币的简单性和有效性（过去十年中促成近 **[35 万亿](https://tokenterminal.com/explorer/metrics/stablecoin-transfer-volume?v=Y2E3YjNmYjljZjI5Y2E4ZDc4ZjAxN2Yx&utm_campaign=Newsletter&utm_medium=email&_hsmi=330295260&utm_content=330295260&utm_source=hs_email)**美元的交易），各国央行可能会暂时选择将这类成熟解决方案整合进传统金融体系。[加拿大](https://www.cato.org/commentary/australia-canada-colombia-were-right-pause-cbdc-plans?utm_campaign=Newsletter&utm_medium=email&_hsmi=330295260&utm_content=330295260&utm_source=hs_email)、[新加坡](https://www.mas.gov.sg/news/media-releases/2023/mas-finalises-stablecoin-regulatory-framework?utm_campaign=Newsletter&utm_medium=email&_hsmi=330295260&utm_content=330295260&utm_source=hs_email)和[英国](https://www.coindesk.com/policy/2024/04/15/uk-to-issue-new-crypto-stablecoin-legislation-by-july-minister-says?utm_campaign=Newsletter&utm_medium=email&_hsmi=330295260&utm_content=330295260&utm_source=hs_email)的实践表明，在就最佳 CBDC 模型达成共识前，这种渐进式方法不失为一种务实选择。
 
-
+这些发展动向预示着稳定币市场正在向更成熟、更多元的方向演进。创新商业模式的涌现与监管框架的完善将共同推动行业进入新的发展阶段，为市场参与者创造更丰富的价值获取机会。
 
