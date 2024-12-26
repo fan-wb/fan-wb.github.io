@@ -22,18 +22,19 @@ image: https://fanwb.oss-cn-beijing.aliyuncs.com/img/1000057449.jpg
 
 ---
 
-稳定币已迅速成为加密经济的重要支柱，推动了近[半数](https://castleisland.vc/wp-content/uploads/2024/09/stablecoins_the_emerging_market_story_091224.pdf?utm_campaign=Newsletter&utm_medium=email&_hsmi=330295260&utm_content=330295260&utm_source=hs_email)的链上交易活动。稳定币巧妙地弥合了高波动的加密货币与传统法定货币之间的鸿沟，为用户提供了稳定可靠的交易媒介。通过与 Stripe 和 PayPal 等主流支付平台无缝整合，稳定币降低了加密货币的使用门槛，使普通用户无需深入技术细节即可参与加密经济。其快速、低成本的支付特性正在重塑汇款和跨境交易模式，在非洲等面临货币挑战的地区尤为显著。稳定币对加密货币新老用户的独特吸引力，正推动着数字金融的广泛普及，成为金融生态系统演进的关键驱动力。
+稳定币已发展成为加密经济的核心基础设施，占据近[半数](https://castleisland.vc/wp-content/uploads/2024/09/stablecoins_the_emerging_market_story_091224.pdf?utm_campaign=Newsletter&utm_medium=email&_hsmi=330295260&utm_content=330295260&utm_source=hs_email)的链上交易活动。作为连接高波动性加密资产与传统法定货币的桥梁，稳定币为用户提供了稳定可靠的交易媒介。在应用场景拓展方面，稳定币与 Stripe、PayPal 等主流支付平台的深度整合显著降低了用户进入门槛，使得普通用户无需掌握复杂的技术知识即可参与加密经济。这种便捷性在跨境支付与汇款领域的优势尤为突出，其高效率、低成本的特性正在重构传统金融服务模式。特别是在非洲等面临本币稳定性挑战的地区，稳定币正在发挥着越来越重要的普惠金融作用。随着稳定币在支付、结算等基础金融服务中的应用不断深化，其作为连接传统金融与数字经济的关键基础设施的地位将进一步巩固。本文将对稳定币的类型、应用现状、监管格局和未来前景进行整理分析，以期为读者带来启发。
+
+## 稳定币类型
 
 **何谓稳定币**？
 
 稳定币是一种旨在维持恒定价值的加密资产，通常与黄金或美元等资产按 1:1 比例锚定。这种设计使其非常适合日常交易和资金流转。
 
 稳定币主要分为三种类型：
+
 1. 法币抵押型：由法定货币直接背书，目前占据了稳定币市场的主导地位。代表性产品包括 Tether 的 USDT 和 Circle 的 USDC。
 2. 加密抵押型：由加密资产背书，为对冲波动性，往往采用超额抵押机制。代表性产品如 MakerDAO 的 DAI。
 3. 算法型：完全依靠算法和智能合约维持价格稳定，无需传统的资产储备，其价格锚定通过铸造和销毁机制来实现。代表性产品如 Aave 的 GHO。
-
-## 抵押方式
 
 稳定币通过特定的抵押策略和市场机制来抵御价格波动，以保持其价格稳定。
 
@@ -88,19 +89,19 @@ USDT 的分布则更为集中，其中 **70%** 位于 EOA 中，**25%** 驻留�
 ![](https://fanwb.oss-cn-beijing.aliyuncs.com/img/空.png)
 _图4 USDT 在加密生态中的应用 | 数据源：Dune_
 
-这样的分布情况也体现了稳定币的核心价值：提供金融稳定性。EOA（如 Metamask 和 Phantom 等非托管钱包）本质上是用户规避加密货币波动风险的避风港，能让投资者能快速将资产转换为相对稳定的形态。而像 Binance 和 Coinbase 这样的 CeFi 平台不仅提供资产转换渠道，也为跨境交易构建了便捷桥梁。这点对 USDT 的众多网络上（尤其是 Tron）的广泛部署十分关键，使其成为了拉丁美洲和非洲新兴经济体用户的[理想选择](https://www.getorbital.com/news-media/the-importance-of-usdt-payments-on-tron-in-emerging-markets?utm_campaign=Newsletter&utm_medium=email&_hsmi=330295260&utm_content=330295260&utm_source=hs_email)。由此不难看出稳定币在保护投资和提供全球金融可及性两方面都扮演了重要角色。
+EOA（如 Metamask 和 Phantom 等非托管钱包）本质上是用户规避加密货币波动风险的避风港，能让投资者能快速将资产转换为相对稳定的形态。而像 Binance 和 Coinbase 这样的 CeFi 平台不仅提供资产转换渠道，也为跨境交易搭建了便捷桥梁。这样的分布情况也体现出了稳定币的核心价值：提供金融稳定性。这点对于 USDT 在 Tron 等众多网络上的广泛部署十分关键，也使其成为了拉丁美洲和非洲新兴经济体用户的[理想选择](https://www.getorbital.com/news-media/the-importance-of-usdt-payments-on-tron-in-emerging-markets?utm_campaign=Newsletter&utm_medium=email&_hsmi=330295260&utm_content=330295260&utm_source=hs_email)。由此不难看出稳定币在保护投资和提供全球金融可及性两方面都扮演了重要角色。
 
 ### DeFi
 
-在 DeFi 领域，法币抵押稳定币相较于去中心化稳定币存在感偏低，原因主要在于后者可以采用激励机制（如分发 AAVE、MKR 等原生协议代币）来推动其生态的发展。
+在 DeFi 领域，去中心化稳定币可以采用激励机制（如分发 AAVE、MKR 等原生协议代币）来推动其生态的发展，相较之下法币抵押稳定币存在感偏低。
 
-但 PayPal 的 PYUSD 是一个特例。在进军 Solana 生态系统的过程中，PayPal 与 Kamino Finance 携手合作，为 PYUSD 存款提供高达 **[17%](https://www.dlnews.com/articles/defi/paypal-stablecoin-supply-hits-569-million-usd-on-solana/?utm_campaign=Newsletter&utm_medium=email&_hsmi=330295260&utm_content=330295260&utm_source=hs_email)** 的年收益率，显著高于 USDC 在 Solana 上年化 **9%** 的收益率。这一策略在初期颇有成效，推动 PYUSD 的市值迅速攀升至近 **10 亿**美元，其中近 **20%** 流通于去中心化交易所，用户通过提供流动性赚取收益。然而，当激励措施收缩时， PYUSD 的市值从 8 月的峰值骤降近 **40%**，凸显了收益驱动策略在挑战现有主流稳定币市场地位、塑造采用路径中的关键作用。
+但 PayPal 的 PYUSD 通过独特的市场策略打破了这一格局。在进军 Solana 生态系统的过程中，PayPal 与 Kamino Finance 携手合作，为 PYUSD 存款提供高达 **[17%](https://www.dlnews.com/articles/defi/paypal-stablecoin-supply-hits-569-million-usd-on-solana/?utm_campaign=Newsletter&utm_medium=email&_hsmi=330295260&utm_content=330295260&utm_source=hs_email)** 的年化收益率，显著高于 USDC 在 Solana 上年化 **9%** 的收益水平。这一策略在初期颇有成效，推动 PYUSD 的市值迅速攀升至近 **10 亿**美元，其中近 **20%** 流通于去中心化交易所，用户通过提供流动性赚取收益。然而，随着激励措施的收缩， PYUSD 的市值从 8 月的峰值回落了近 **40%**，凸显了收益驱动策略在挑战现有主流稳定币市场地位、塑造采用路径中的关键作用。
 
 <iframe width="100%" height="360" src="https://dune.com/embeds/4412922/7392743/"></iframe>
 ![](https://fanwb.oss-cn-beijing.aliyuncs.com/img/空.png)
 _图5 PYUSD 在加密生态中的应用 | 数据源：Dune_
 
-同样，得益于精心设计的激励机制，Aave 推出的超额抵押稳定币 GHO 也在 DeFi 领域引起了广泛关注。数据显示，约 80% 的 GHO 供应被用于借贷，另有 5% 在各大 DEX 中流通。这种独特的分布与 Aave 将 GHO 定位为其借贷市场核心的战略高度契合，进一步巩固了稳定币在整个 DeFi 生态中的地位，并促进了其更广泛的应用。
+Aave 推出的超额抵押稳定币 GHO 则采取了差异化的发展路径。数据显示，约 80% 的 GHO 供应被用于借贷，另有 5% 在各大 DEX 中流通。这种独特的分布格局与 Aave 将 GHO 定位为其借贷市场核心组件的战略高度契合，进一步巩固了稳定币在整个 DeFi 生态中的地位，并促进了其更广泛的应用。
 
 <iframe width="100%" height="360" src="https://dune.com/embeds/4413141/7393067/"></iframe>
 ![](https://fanwb.oss-cn-beijing.aliyuncs.com/img/空.png)
@@ -113,15 +114,15 @@ _图7 按金融活动类型分类的稳定币交易量 | 图源：Visa_
 
 ### 汇款及支付
 
-稳定币在跨境支付领域展现出显著的低成本优势，相较于传统国际汇款服务动辄 6% 的高额手续费，其成本优势尤为突出。
+在跨境支付领域，相较于传统国际汇款服务动辄 6% 的高昂手续费，稳定币的成本优势十分突出。
 <img src="https://fanwb.oss-cn-beijing.aliyuncs.com/img/stable002.png" style="zoom: 60%;" />
 _图8 不同渠道的平均汇款成本（占汇款金额的百分比）| 图源：Coinbase_
 
-区块链网络的交易费用差异显著，从几分之一美分到几美元不等。像 Solana、Fantom、Polygon 和 TON 等新一代区块链平均交易费用在一美分以下，而 BNB、Tron 和 Ethereum 等老一代网络的费用则可能需要数美分到数美元。如图 9 所示。不过随着 Layer 2 解决方案的发展，Base、Arbitrum 和 Optimism 等基于 Ethereum 的平台在 Dencun 升级后，也已将交易成本压低至[不到一美分](https://www.growthepie.xyz/fundamentals/transaction-costs)，极大地改善了用户体验。
+区块链网络的交易费用差异显著，从几分之一美分到几美元不等。像 Solana、Fantom、Polygon 和 TON 等新一代区块链平均交易费用在一美分以下，而 BNB、Tron 和 Ethereum 等老一代网络的费用则可能需要数美分到数美元，如图 9 所示。不过随着 Layer 2 解决方案的发展，Base、Arbitrum 和 Optimism 等基于 Ethereum 的平台在 Dencun 升级后，也已将交易成本压低至[不到一美分](https://www.growthepie.xyz/fundamentals/transaction-costs)，极大地改善了用户体验。
 <img src="https://fanwb.oss-cn-beijing.aliyuncs.com/img/stable003.png" style="zoom:30%;" />
 _图9 主流 Layer-1 区块链的平均交易成本 | 图源：TokenTerminal_
 
-即便是在费用相对较高的网络中，加密货币交易的成本仍远低于传统支付系统，这种成本效益直接反映在稳定币使用量的稳步增长上。过去四年间，尽管加密货币市场经历周期性波动，但稳定币的使用量却在持续攀升。从 2020 年第三季度至 2021 年底的牛市期间，稳定币使用量显著增长；随后即便进入熊市，从 2022 年到 2023 年第三季度，增长势头依然不减。每月稳定币发送者数量从 2020 年 10 月的约 **230 万**激增至如今的 **1200 万**，增长近 **600%**，充分显示了稳定币在加密生态之外的持续吸引力和实际价值。
+即便是在费用相对较高的网络中，加密货币交易的成本仍远低于传统支付系统，这种成本效益直接反映在了稳定币使用量的稳步增长上。过去四年间，尽管加密货币市场经历周期性波动，但稳定币的使用量却在持续攀升。从 2020 年第三季度至 2021 年底的牛市期间，稳定币使用量显著增长；随后即便进入熊市，从 2022 年到 2023 年第三季度，增长势头依然不减。每月稳定币发送者数量从 2020 年 10 月的约 **230 万**激增至如今的 **1200 万**，增长近 **600%**，充分显示了稳定币在加密生态之外的持续吸引力和实际价值。
 <img src="https://fanwb.oss-cn-beijing.aliyuncs.com/img/stable004.png" style="zoom:80%;" />
 _图10 每月稳定币发送者数量 | 图源：TokenTerminal_
 
