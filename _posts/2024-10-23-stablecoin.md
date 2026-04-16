@@ -166,7 +166,8 @@ _图14 主流稳定币的价格稳定性 | 图源：CoinMetrics_
 
 美联储利率下降催生了对稳定币的深入探讨。投资者追求更高收益的趋势已初露端倪，如下图所示，加密货币无抵押贷款平台 Maple Finance 的贷款总额已攀升至历史新高。
 
-<iframe width="100%" height="360" src="https://dune.com/embeds/4414851/7395318/"></iframe>
+<iframe width="100%" height="360" src="https://dune.com/embeds/4414851/11248511"></iframe>
+
 ![](https://fanwb.oss-cn-beijing.aliyuncs.com/img/空.png)
 _图15 MapleFinance 未偿贷款总额 | 数据源：Dune_
 
